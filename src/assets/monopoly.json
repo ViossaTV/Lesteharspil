@@ -487,7 +487,7 @@
             "averageProbability": 2.5545999999999998
         },
         {
-            "name": "Electric Company",
+            "name": "Zeus Ergoklaani",
             "id": "electriccompany",
             "posistion": 12,
             "price": 150,
@@ -495,7 +495,7 @@
             "ownedby": -1,
             "mortgaged": false,
             "rel": {
-                "Square": "Electric Company",
+                "Square": "Zeus Ergoklaani",
                 "Probability % (Jail Short)": 2.604,
                 "Rank": 13,
                 "Probability % (Jail Long)": 2.614
@@ -504,7 +504,7 @@
             "averageProbability": 2.609
         },
         {
-            "name": "Water Works",
+            "name": "Ishkekran",
             "id": "waterworks",
             "posistion": 28,
             "price": 150,
@@ -512,7 +512,7 @@
             "ownedby": -1,
             "mortgaged": false,
             "rel": {
-                "Square": "Water Works",
+                "Square": "Ishkekran",
                 "Probability % (Jail Short)": 2.8074,
                 "Rank": 10,
                 "Probability % (Jail Long)": 2.6507
@@ -521,7 +521,7 @@
             "averageProbability": 2.72905
         },
         {
-            "name": "Reading Railroad",
+            "name": "Vilant Rofaiklaani",
             "id": "readingrailroad",
             "posistion": 5,
             "price": 200,
@@ -530,7 +530,7 @@
             "mortgaged": false,
             "probability": 2.1314,
             "rel": {
-                "Square": "Reading Railroad",
+                "Square": "Vilant Rofaiklaani",
                 "Probability % (Jail Short)": 2.9631,
                 "Rank": 8,
                 "Probability % (Jail Long)": 2.801
@@ -539,7 +539,7 @@
             "averageProbability": 2.88205
         },
         {
-            "name": "Pennsylvania Railroad",
+            "name": "Wynter Rofaiklaani",
             "id": "pennsylvaniarailroad",
             "posistion": 15,
             "price": 200,
@@ -547,7 +547,7 @@
             "ownedby": -1,
             "mortgaged": false,
             "rel": {
-                "Square": "Pennsylvania Railroad",
+                "Square": "Wynter Rofaiklaani",
                 "Probability % (Jail Short)": 2.92,
                 "Rank": 11,
                 "Probability % (Jail Long)": 2.6354
@@ -556,7 +556,7 @@
             "averageProbability": 2.7777000000000003
         },
         {
-            "name": "B. & O. Railroad",
+            "name": "B. & O. Rofaiklaani",
             "id": "borailroad",
             "posistion": 25,
             "price": 200,
@@ -567,7 +567,7 @@
             "averageProbability": 2.975
         },
         {
-            "name": "Short Line Railroad",
+            "name": "Short Line Rofaiklaani",
             "id": "shortlinerailroad",
             "posistion": 35,
             "price": 200,
@@ -578,12 +578,12 @@
             "averageProbability": 2.3609500000000002
         },
         {
-            "name": "Go",
+            "name": "Skoitsa",
             "id": "go",
             "posistion": 0,
             "group": "Special",
             "rel": {
-                "Square": "Go",
+                "Square": "Skoitsa",
                 "Probability % (Jail Short)": 3.0961,
                 "Rank": 3,
                 "Probability % (Jail Long)": 2.9143
@@ -591,12 +591,12 @@
             "averageProbability": 3.0052
         },
         {
-            "name": "Income Tax",
+            "name": "Ergogelt Mahaminus",
             "id": "incometax",
             "group": "Special",
             "posistion": 4,
             "rel": {
-                "Square": "Income Tax",
+                "Square": "Ergogelt Mahaminus",
                 "Probability % (Jail Short)": 2.3285,
                 "Rank": 27,
                 "Probability % (Jail Long)": 2.1934
@@ -604,19 +604,19 @@
             "averageProbability": 2.2609500000000002
         },
         {
-            "name": "Jail / Just Visiting",
+            "name": "Gulak / Prosta gozar ima",
             "id": "jail",
             "posistion": 10,
             "group": "Special",
             "averageProbability": 8.897
         },
         {
-            "name": "Chance",
+            "name": "Udachi",
             "id": "chance",
             "group": "Special",
             "posistion": 36,
             "rel": {
-                "Square": "Chance",
+                "Square": "Udachi",
                 "Probability % (Jail Short)": 0.865,
                 "Rank": 40,
                 "Probability % (Jail Long)": 0.8152
@@ -624,12 +624,12 @@
             "averageProbability": 0.8401000000000001
         },
         {
-            "name": "Chance",
+            "name": "Udachi",
             "id": "chance",
             "group": "Special",
             "posistion": 7,
             "rel": {
-                "Square": "Chance",
+                "Square": "Udachi",
                 "Probability % (Jail Short)": 0.865,
                 "Rank": 40,
                 "Probability % (Jail Long)": 0.8152
@@ -637,12 +637,12 @@
             "averageProbability": 0.8401000000000001
         },
         {
-            "name": "Chance",
+            "name": "Udachi",
             "id": "chance",
             "group": "Special",
             "posistion": 22,
             "rel": {
-                "Square": "Chance",
+                "Square": "Udachi",
                 "Probability % (Jail Short)": 0.865,
                 "Rank": 40,
                 "Probability % (Jail Long)": 0.8152
@@ -650,12 +650,12 @@
             "averageProbability": 0.8401000000000001
         },
         {
-            "name": "Free Parking",
+            "name": "Nil kerras per auto-yamete",
             "id": "freeparking",
             "group": "Special",
             "posistion": 20,
             "rel": {
-                "Square": "Free Parking",
+                "Square": "Nil kerras per auto-yamete",
                 "Probability % (Jail Short)": 2.8836,
                 "Rank": 5,
                 "Probability % (Jail Long)": 2.8253
@@ -663,12 +663,12 @@
             "averageProbability": 2.85445
         },
         {
-            "name": "Community Chest",
+            "name": "Kamagbaksudai",
             "id": "communitychest",
             "group": "Special",
             "posistion": 2,
             "rel": {
-                "Square": "Community Chest",
+                "Square": "Kamagbaksudai",
                 "Probability % (Jail Short)": 1.8849,
                 "Rank": 37,
                 "Probability % (Jail Long)": 1.775
@@ -676,12 +676,12 @@
             "averageProbability": 1.82995
         },
         {
-            "name": "Community Chest",
+            "name": "Kamagbaksudai",
             "id": "communitychest",
             "group": "Special",
             "posistion": 33,
             "rel": {
-                "Square": "Community Chest",
+                "Square": "Kamagbaksudai",
                 "Probability % (Jail Short)": 1.8849,
                 "Rank": 37,
                 "Probability % (Jail Long)": 1.775
@@ -689,12 +689,12 @@
             "averageProbability": 1.82995
         },
         {
-            "name": "Community Chest",
+            "name": "Kamagbaksudai",
             "id": "communitychest",
             "group": "Special",
             "posistion": 17,
             "rel": {
-                "Square": "Community Chest",
+                "Square": "Kamagbaksudai",
                 "Probability % (Jail Short)": 1.8849,
                 "Rank": 37,
                 "Probability % (Jail Long)": 1.775
@@ -702,12 +702,12 @@
             "averageProbability": 1.82995
         },
         {
-            "name": "Go To Jail",
+            "name": "Skoitsa gulak made",
             "id": "gotojail",
             "group": "Special",
             "posistion": 30,
             "rel": {
-                "Square": "Go To Jail",
+                "Square": "Skoitsa gulak made",
                 "Probability % (Jail Short)": 0,
                 "Rank": 41,
                 "Probability % (Jail Long)": 0
@@ -715,7 +715,7 @@
             "averageProbability": 0
         },
         {
-            "name": "Luxury Tax",
+            "name": "Aschorlikk Mahaminus",
             "id": "luxerytax",
             "group": "Special",
             "posistion": 38,
@@ -766,28 +766,28 @@
     ],
     "chance": [
         {
-            "title": "Advance to Go (Collect $200)",
+            "title": "Bengtsa Skoitsa made (Sada $200)",
             "action": "move",
             "tileid": "go"
         },
         {
-            "title": "Advance to Illinois Avenue - If you pass Go, collect $200",
+            "title": "Bengtsa Illinois Avenue made - Li du gozar Skoitsa, sada $200",
             "action": "move",
             "tileid": "illinoisave"
         },
         {
-            "title": "Advance to St. Charles Place - If you pass Go, collect $200",
+            "title": "Bengtsa St. Charles Place made - Li du gozar Skoitsa, sada $200",
             "action": "move",
             "tileid": "stcharlesplace"
         },
         {
-            "title": "Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times the amount thrown.",
+            "title": "Beng med leknen lesteakote Utility made. Li jamnai kaiser, Du deki kaupa sore Geltplas kara. Li jam kaiser, yit zari au bajad kaiser 10X atai ke yitjenadan.",
             "action": "movenearest",
             "groupid": "utility",
             "rentmultiplier": 10
         },
         {
-            "title": "Advance token to the nearest Railroad and pay owner twice the rental to which he/she is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.",
+            "title": "Beng med leknen lesteakote Rofaiklaani au bajad kaiser 2X mbogozma ke sore kjokajena. Li jamnai kaiser fu rofaiklaani, du deki kaupa sore Geltplas kara.",
             "action": "movenearest",
             "groupid": "railroad",
             "rentmultiplier": 2
@@ -798,22 +798,22 @@
             "amount": 50
         },
         {
-            "title": "Get out of Jail Free - This card may be kept until needed, or traded/sold",
+            "title": "Nimlat gulak - Afto fuga dekiena festajena per kesa du treng, os hokena",
             "action": "jail",
             "subaction": "getout"
         },
         {
-            "title": "Go Back 3 Spaces",
+            "title": "Suruktsa 3 plas",
             "action": "move",
             "count": -3
         },
         {
-            "title": "Go to Jail - Go directly to Jail - Do not pass Go, do not collect $200",
+            "title": "Skoi gulak made - Du musnai gozar Skoitsa, sadanai $200",
             "action": "jail",
             "subaction": "goto"
         },
         {
-            "title": "Make general repairs on all your property - For each house pay $25 - For each hotel $100",
+            "title": "Maha fikszma na vonaplas fu du - Per tont huomi bajad $25 - Per tont hshfulhuomi bajad $100",
             "action": "propertycharges",
             "buildings": 25,
             "hotels": 100
